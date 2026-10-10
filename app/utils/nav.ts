@@ -12,6 +12,7 @@ export const labNav: LabLink[] = [
   { to: '/plain', title: '布局', group: '路由' },
   { to: '/data', title: '数据获取', group: '数据' },
   { to: '/server', title: '服务端接口', group: '数据' },
+  { to: '/proxy', title: '本地代理', group: '数据' },
   { to: '/config', title: '配置', group: '数据' },
   { to: '/render', title: '服务端渲染', group: '渲染' },
   { to: '/client', title: '仅客户端', group: '渲染' },
